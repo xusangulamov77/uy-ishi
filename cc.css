@@ -1,0 +1,16 @@
+*{
+    margin: 24;
+    padding: 24;
+    box-sizing: border-box;
+    text-align: center;
+    box-shadow: inset;
+    border-radius: 15%;
+  
+}
+
+body {
+
+    background-color: rgb(27, 27, 137);
+
+
+}
